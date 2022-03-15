@@ -1,0 +1,31 @@
+div.background{
+  height: auto;
+  width: 100%;
+  background-color: rgb(141, 220, 252);
+  border: 4px solid rgb(236, 143, 89);
+  
+}
+h1{
+  text-align: center;
+  font-family:Helvetica;
+}
+.line{
+  text-align: center;
+  border-bottom: 3px solid white;
+  margin-left: 5.5%;
+  margin-right: 6%;
+}
+.n1{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+ form{
+  margin-left: 5%;
+  margin-right: 4%;
+  font-weight: bold;
+} 
